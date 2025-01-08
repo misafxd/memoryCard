@@ -1,0 +1,40 @@
+.game {
+  width: 60dvw;
+  display: flex;
+  justify-content: center;
+}
+
+ul{
+  height: 100%;
+  padding: 0;
+  margin: 2rem 0;
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+}
+
+.card {
+  min-width: 150px;
+  padding: 1rem;
+  border: 1px solid light-dark(#333b3c, #efefec);
+  border-radius: 1rem;
+  list-style-type: none;
+  height: fit-content;
+}
+
+.card:hover {
+  box-shadow: 2px 2px 15px 2px light-dark(rgba(0,0,0,0.5),rgba(255,255,255,0.5));
+}
+
+.card img {
+  width: 80%;
+}
+
+.scoreBoard {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  font-weight: 600;
+}
