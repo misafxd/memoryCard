@@ -10,6 +10,8 @@
 - **Barajado de cartas**: Las cartas se barajan después de cada clic.
 - **Fin del juego**: El juego termina si haces clic en un Pokémon repetido.
 
+  ![Screenshot 2025-01-10 231728](https://github.com/user-attachments/assets/bfa520bb-5225-4623-a8e7-9cdb6c03bc93)
+
 ## Instalación
 
 Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local.
@@ -55,6 +57,9 @@ El proyecto estará disponible en http://localhost:5173
 3. **Barajado de cartas**: Después de cada clic, las cartas se barajarán y cambiarán de lugar.
 4. **Evita repetir**: Si haces clic en un Pokémon que ya habías seleccionado, el juego terminará.
 5. **Mejor puntuación**: Si superas tu mejor puntuación, esta se actualizará automáticamente.
+
+
+
 
 ---
 
